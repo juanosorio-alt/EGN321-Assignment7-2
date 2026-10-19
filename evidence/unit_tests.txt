@@ -1,0 +1,21 @@
+test_alert_state_survives_restart (test_monitor.DatabaseTests.test_alert_state_survives_restart) ... ok
+test_alerts_after_stale_recovery (test_monitor.DatabaseTests.test_alerts_after_stale_recovery) ... ok
+test_archive_preserved (test_monitor.DatabaseTests.test_archive_preserved) ... ok
+test_database_null_and_checkpoint (test_monitor.DatabaseTests.test_database_null_and_checkpoint) ... ok
+test_enriched_context (test_monitor.DatabaseTests.test_enriched_context) ... ok
+test_stale_event_even_when_invalid_arrivals_continue (test_monitor.DatabaseTests.test_stale_event_even_when_invalid_arrivals_continue) ... ok
+test_stale_resets_pending_count (test_monitor.DatabaseTests.test_stale_resets_pending_count) ... ok
+test_health_timeout_without_arrivals (test_monitor.LogicTests.test_health_timeout_without_arrivals) ... ok
+test_hysteresis (test_monitor.LogicTests.test_hysteresis) ... ok
+test_invalid_resets_count (test_monitor.LogicTests.test_invalid_resets_count) ... ok
+test_missing_does_not_clear (test_monitor.LogicTests.test_missing_does_not_clear) ... ok
+test_noise_resets_count (test_monitor.LogicTests.test_noise_resets_count) ... ok
+test_persistence (test_monitor.LogicTests.test_persistence) ... ok
+test_recovering_and_alert (test_monitor.LogicTests.test_recovering_and_alert) ... ok
+test_source_rejection_preserved (test_monitor.LogicTests.test_source_rejection_preserved) ... ok
+test_validation (test_monitor.LogicTests.test_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.018s
+
+OK

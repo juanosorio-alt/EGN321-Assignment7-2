@@ -1,0 +1,13 @@
+{"id": 1, "time": "2026-10-18T23:25:57.476+00:00", "component": "application", "event": "APPLICATION_START", "details": {"pid": 51760, "cursor": 0}}
+{"id": 2, "time": "2026-10-18T23:25:57.478+00:00", "component": "application", "event": "READING_PROCESSED", "details": {"status": "OK", "value": 25.0, "provenance": "module6_classroom_replay"}}
+{"id": 3, "time": "2026-10-18T23:25:57.478+00:00", "component": "application", "event": "HEALTH_CHANGED", "details": {"previous": "RECOVERING", "current": "HEALTHY"}}
+{"id": 4, "time": "2026-10-18T23:25:58.512+00:00", "component": "application", "event": "READING_PROCESSED", "details": {"status": "OK", "value": 25.0, "provenance": "module6_classroom_replay"}}
+{"id": 5, "time": "2026-10-18T23:25:59.547+00:00", "component": "application", "event": "READING_PROCESSED", "details": {"status": "OK", "value": 25.0, "provenance": "module6_classroom_replay"}}
+{"id": 6, "time": "2026-10-18T23:26:02.636+00:00", "component": "application", "event": "HEALTH_CHANGED", "details": {"previous": "HEALTHY", "current": "DEGRADED"}}
+{"id": 7, "time": "2026-10-18T23:26:02.636+00:00", "component": "application", "event": "STALE_DATA", "details": {"seconds_without_valid": 3.0887069702148438}}
+{"id": 8, "time": "2026-10-18T23:26:07.558+00:00", "component": "application", "event": "HEALTH_CHANGED", "details": {"previous": "DEGRADED", "current": "FAILED"}}
+{"id": 9, "time": "2026-10-18T23:26:07.558+00:00", "component": "application", "event": "DATA_FAILED", "details": {"seconds_without_valid": 8.010020971298218}}
+{"id": 10, "time": "2026-10-18T23:26:08.594+00:00", "component": "application", "event": "READING_PROCESSED", "details": {"status": "OK", "value": 25.0, "provenance": "module6_classroom_replay"}}
+{"id": 11, "time": "2026-10-18T23:26:08.594+00:00", "component": "application", "event": "HEALTH_CHANGED", "details": {"previous": "FAILED", "current": "HEALTHY"}}
+{"id": 12, "time": "2026-10-18T23:26:09.625+00:00", "component": "application", "event": "READING_PROCESSED", "details": {"status": "OK", "value": 25.0, "provenance": "module6_classroom_replay"}}
+{"id": 13, "time": "2026-10-18T23:26:10.651+00:00", "component": "application", "event": "READING_PROCESSED", "details": {"status": "OK", "value": 25.0, "provenance": "module6_classroom_replay"}}

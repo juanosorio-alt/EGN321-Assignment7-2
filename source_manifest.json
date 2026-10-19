@@ -1,0 +1,9 @@
+{
+  "base_application": "https://github.com/juanosorio-alt/EGN321-Assignment7-1",
+  "instructor_reference": "https://github.com/ivansuarez-AU/EGN321_Module7_Assignment7_2",
+  "database_file": "data/module6_history.db",
+  "database_sha256": "e5cc40ac3a9e489473954fe126a52daf72023bf9ee7327195ec03e57100c1823",
+  "archive_rows": 125,
+  "new_measurements_fabricated": false,
+  "selected_failure": "Replay source paused by local marker; timer, HTTP and SQLite continue"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-10-18T23:25:57.476+00:00",
+    "kind": "APPLICATION_START",
+    "details": "{\"pid\": 51760, \"cursor\": 0}"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-10-18T23:25:57.478+00:00",
+    "kind": "READING_PROCESSED",
+    "details": "{\"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-10-18T23:25:57.478+00:00",
+    "kind": "HEALTH_CHANGED",
+    "details": "{\"previous\": \"RECOVERING\", \"current\": \"HEALTHY\"}"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-10-18T23:25:58.512+00:00",
+    "kind": "READING_PROCESSED",
+    "details": "{\"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-10-18T23:25:59.547+00:00",
+    "kind": "READING_PROCESSED",
+    "details": "{\"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-10-18T23:26:02.636+00:00",
+    "kind": "HEALTH_CHANGED",
+    "details": "{\"previous\": \"HEALTHY\", \"current\": \"DEGRADED\"}"
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-10-18T23:26:02.636+00:00",
+    "kind": "STALE_DATA",
+    "details": "{\"seconds_without_valid\": 3.0887069702148438}"
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-10-18T23:26:07.558+00:00",
+    "kind": "HEALTH_CHANGED",
+    "details": "{\"previous\": \"DEGRADED\", \"current\": \"FAILED\"}"
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-10-18T23:26:07.558+00:00",
+    "kind": "DATA_FAILED",
+    "details": "{\"seconds_without_valid\": 8.010020971298218}"
+  }
+]

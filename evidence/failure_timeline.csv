@@ -1,0 +1,13 @@
+Time,Component,Event,Evidence,Interpretation
+2026-10-18T23:25:59.602+00:00,Dashboard,01_normal,baseline/investigator.jsonl line 1,Normal valid replay and available HTTP dashboard.
+2026-10-18T23:25:59.604+00:00,Replay control,FAILURE_INTRODUCED,baseline/investigator.jsonl line 2,Investigator creates the pause file; this is the known intervention.
+2026-10-18T23:26:01.146+00:00,Ingestion,02_first_symptom,baseline/investigator.jsonl line 3,No new row after more than 1.5 seconds; still inside the 3-second grace period.
+2026-10-18T23:26:02.556+00:00,Health,03_degraded,baseline/investigator.jsonl line 4,HTTP state reports STALE and DEGRADED; current value is unavailable.
+2026-10-18T23:26:02.636+00:00,Health monitor,HEALTH_CHANGED,baseline/application_events.jsonl event 6,First adverse application event; baseline has no explicit severity field.
+2026-10-18T23:26:02.636+00:00,Health monitor,STALE_DATA,baseline/application_events.jsonl event 7,Dedicated stale warning after 3.089 seconds without valid data.
+2026-10-18T23:26:07.558+00:00,Health monitor,DATA_FAILED,baseline/application_events.jsonl event 9,Source silence has exceeded the failed-data limit.
+2026-10-18T23:26:07.566+00:00,Health,04_failed,baseline/investigator.jsonl line 5,Valid-data age exceeds 8 seconds while HTTP remains available.
+2026-10-18T23:26:07.568+00:00,Investigator,LOG_REVIEW_AND_HYPOTHESES,baseline/investigator.jsonl line 6,"Inspect logs, pause flag, heartbeat and SQLite read/write behavior."
+2026-10-18T23:26:07.568+00:00,Replay control,RECOVERY_ACTION,baseline/investigator.jsonl line 7,Remove the pause marker only; retain evidence and database.
+2026-10-18T23:26:08.661+00:00,Dashboard,05_recovered,baseline/investigator.jsonl line 8,New valid row and HEALTHY response after recovery.
+2026-10-18T23:26:10.737+00:00,Ingestion,06_continued_input,baseline/investigator.jsonl line 9,Two additional rows prove continued receipt.

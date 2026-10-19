@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-18T23:25:57.382228+00:00", "kind": "SUPERVISOR_START", "pid": 51759}
+{"timestamp": "2026-10-18T23:25:57.383839+00:00", "kind": "CHILD_STARTED", "pid": 51760}
+{"timestamp": "2026-10-18T23:26:10.743988+00:00", "kind": "CHILD_EXIT", "pid": 51760, "exit_code": -15}
+{"timestamp": "2026-10-18T23:26:10.744454+00:00", "kind": "SUPERVISOR_STOP"}

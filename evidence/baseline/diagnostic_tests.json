@@ -1,0 +1,9 @@
+{
+  "source_pause_file_present": true,
+  "integrity": "ok",
+  "write_transaction_and_rollback": true,
+  "worker_heartbeat_age": 0.01055908203125,
+  "pid_unchanged": true,
+  "cursor_at_first_symptom": 3,
+  "cursor_at_failure": 3
+}

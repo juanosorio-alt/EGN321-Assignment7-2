@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "baseline_source_pause_events": 0,
+  "improved_pause_event_id": 6,
+  "improved_resume_event_id": 11,
+  "pause_context_fields": [
+    "component",
+    "severity",
+    "pid",
+    "database",
+    "cursor_before_tick",
+    "last_valid_received_at",
+    "latest_reading_id",
+    "source_record_id",
+    "source_timestamp",
+    "reason",
+    "control_file",
+    "expected_interval_seconds"
+  ],
+  "baseline_recovery_seconds": 1.0929,
+  "improved_recovery_seconds": 0.989,
+  "both_archives_unchanged": true
+}

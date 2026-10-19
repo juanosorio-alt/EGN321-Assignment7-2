@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "variant": "baseline",
+  "archive_rows": 125,
+  "archive_unchanged": true,
+  "prior_rows_unchanged": true,
+  "rows_before": 3,
+  "rows_after": 6,
+  "final_health": "HEALTHY",
+  "same_application_pid": true,
+  "alert_clear_after_recovery": true,
+  "input_resumed": true,
+  "sqlite_integrity": "ok",
+  "source_pause_seconds": 7.9645,
+  "recovery_seconds": 1.0929
+}

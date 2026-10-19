@@ -1,0 +1,1149 @@
+{
+  "alert": false,
+  "archive": [
+    {
+      "accepted_value": 25.0,
+      "record_id": 1,
+      "run_id": 1,
+      "sample_number": 1,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:00"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 2,
+      "run_id": 1,
+      "sample_number": 2,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:01"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 3,
+      "run_id": 1,
+      "sample_number": 3,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:02"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 4,
+      "run_id": 1,
+      "sample_number": 4,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:03"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 5,
+      "run_id": 1,
+      "sample_number": 5,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:04"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 6,
+      "run_id": 1,
+      "sample_number": 6,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:05"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 7,
+      "run_id": 1,
+      "sample_number": 7,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:06"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 8,
+      "run_id": 1,
+      "sample_number": 8,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:07"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 9,
+      "run_id": 1,
+      "sample_number": 9,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:08"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 10,
+      "run_id": 1,
+      "sample_number": 10,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:09"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 11,
+      "run_id": 1,
+      "sample_number": 11,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:10"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 12,
+      "run_id": 1,
+      "sample_number": 12,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:11"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 13,
+      "run_id": 1,
+      "sample_number": 13,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:12"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 14,
+      "run_id": 1,
+      "sample_number": 14,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:13"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 15,
+      "run_id": 1,
+      "sample_number": 15,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:14"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 16,
+      "run_id": 1,
+      "sample_number": 16,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:15"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 17,
+      "run_id": 1,
+      "sample_number": 17,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:16"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 18,
+      "run_id": 1,
+      "sample_number": 18,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:17"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 19,
+      "run_id": 1,
+      "sample_number": 19,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:18"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 20,
+      "run_id": 1,
+      "sample_number": 20,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:19"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 21,
+      "run_id": 1,
+      "sample_number": 21,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:20"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 22,
+      "run_id": 1,
+      "sample_number": 22,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:21"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 23,
+      "run_id": 1,
+      "sample_number": 23,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:22"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 24,
+      "run_id": 1,
+      "sample_number": 24,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:23"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 25,
+      "run_id": 1,
+      "sample_number": 25,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:24"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 26,
+      "run_id": 1,
+      "sample_number": 26,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:25"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 27,
+      "run_id": 1,
+      "sample_number": 27,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:26"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 28,
+      "run_id": 1,
+      "sample_number": 28,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:27"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 29,
+      "run_id": 1,
+      "sample_number": 29,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:28"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 30,
+      "run_id": 1,
+      "sample_number": 30,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:29"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 31,
+      "run_id": 1,
+      "sample_number": 31,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:30"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 32,
+      "run_id": 1,
+      "sample_number": 32,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:31"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 33,
+      "run_id": 1,
+      "sample_number": 33,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:32"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 34,
+      "run_id": 1,
+      "sample_number": 34,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:33"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 35,
+      "run_id": 1,
+      "sample_number": 35,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:34"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 36,
+      "run_id": 1,
+      "sample_number": 36,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:35"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 37,
+      "run_id": 1,
+      "sample_number": 37,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:36"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 38,
+      "run_id": 1,
+      "sample_number": 38,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:37"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 39,
+      "run_id": 1,
+      "sample_number": 39,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:38"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 40,
+      "run_id": 1,
+      "sample_number": 40,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:39"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 41,
+      "run_id": 1,
+      "sample_number": 41,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:40"
+    },
+    {
+      "accepted_value": 29.0,
+      "record_id": 42,
+      "run_id": 1,
+      "sample_number": 42,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:41"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 43,
+      "run_id": 1,
+      "sample_number": 43,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:42"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 44,
+      "run_id": 1,
+      "sample_number": 44,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:43"
+    },
+    {
+      "accepted_value": 22.0,
+      "record_id": 45,
+      "run_id": 1,
+      "sample_number": 45,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:44"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 46,
+      "run_id": 1,
+      "sample_number": 46,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:45"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 47,
+      "run_id": 1,
+      "sample_number": 47,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:46"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 48,
+      "run_id": 1,
+      "sample_number": 48,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:47"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 49,
+      "run_id": 1,
+      "sample_number": 49,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:48"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 50,
+      "run_id": 1,
+      "sample_number": 50,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:49"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 51,
+      "run_id": 1,
+      "sample_number": 51,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:50"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 52,
+      "run_id": 1,
+      "sample_number": 52,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:51"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 53,
+      "run_id": 1,
+      "sample_number": 53,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:52"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 54,
+      "run_id": 1,
+      "sample_number": 54,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:53"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 55,
+      "run_id": 1,
+      "sample_number": 55,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:54"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 56,
+      "run_id": 1,
+      "sample_number": 56,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:55"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 57,
+      "run_id": 1,
+      "sample_number": 57,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:56"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 58,
+      "run_id": 1,
+      "sample_number": 58,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:57"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 59,
+      "run_id": 1,
+      "sample_number": 59,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:58"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 60,
+      "run_id": 1,
+      "sample_number": 60,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:00:59"
+    },
+    {
+      "accepted_value": 23.0,
+      "record_id": 61,
+      "run_id": 1,
+      "sample_number": 61,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:00"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 62,
+      "run_id": 1,
+      "sample_number": 62,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:01"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 63,
+      "run_id": 1,
+      "sample_number": 63,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:02"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 64,
+      "run_id": 1,
+      "sample_number": 64,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:03"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 65,
+      "run_id": 1,
+      "sample_number": 65,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:04"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 66,
+      "run_id": 1,
+      "sample_number": 66,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:05"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 67,
+      "run_id": 1,
+      "sample_number": 67,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:06"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 68,
+      "run_id": 1,
+      "sample_number": 68,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:07"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 69,
+      "run_id": 1,
+      "sample_number": 69,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:08"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 70,
+      "run_id": 1,
+      "sample_number": 70,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:09"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 71,
+      "run_id": 1,
+      "sample_number": 71,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:10"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 72,
+      "run_id": 1,
+      "sample_number": 72,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:11"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 73,
+      "run_id": 1,
+      "sample_number": 73,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:12"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 74,
+      "run_id": 1,
+      "sample_number": 74,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:13"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 75,
+      "run_id": 1,
+      "sample_number": 75,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:14"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 76,
+      "run_id": 1,
+      "sample_number": 76,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:15"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 77,
+      "run_id": 1,
+      "sample_number": 77,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:16"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 78,
+      "run_id": 1,
+      "sample_number": 78,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:17"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 79,
+      "run_id": 1,
+      "sample_number": 79,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:18"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 80,
+      "run_id": 1,
+      "sample_number": 80,
+      "status": "OUT_OF_RANGE",
+      "timestamp": "2026-10-01T12:01:19"
+    },
+    {
+      "accepted_value": 36.0,
+      "record_id": 81,
+      "run_id": 1,
+      "sample_number": 81,
+      "status": "SUSPICIOUS",
+      "timestamp": "2026-10-01T12:01:20"
+    },
+    {
+      "accepted_value": 14.0,
+      "record_id": 82,
+      "run_id": 1,
+      "sample_number": 82,
+      "status": "SUSPICIOUS",
+      "timestamp": "2026-10-01T12:01:21"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 83,
+      "run_id": 1,
+      "sample_number": 83,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:22"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 84,
+      "run_id": 1,
+      "sample_number": 84,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:23"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 85,
+      "run_id": 1,
+      "sample_number": 85,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:24"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 86,
+      "run_id": 1,
+      "sample_number": 86,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:25"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 87,
+      "run_id": 1,
+      "sample_number": 87,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:26"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 88,
+      "run_id": 1,
+      "sample_number": 88,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:27"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 89,
+      "run_id": 1,
+      "sample_number": 89,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:28"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 90,
+      "run_id": 1,
+      "sample_number": 90,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:29"
+    },
+    {
+      "accepted_value": 25.0,
+      "record_id": 91,
+      "run_id": 1,
+      "sample_number": 91,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:30"
+    },
+    {
+      "accepted_value": 24.0,
+      "record_id": 92,
+      "run_id": 1,
+      "sample_number": 92,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:31"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 93,
+      "run_id": 1,
+      "sample_number": 93,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:32"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 94,
+      "run_id": 1,
+      "sample_number": 94,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:33"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 95,
+      "run_id": 1,
+      "sample_number": 95,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:34"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 96,
+      "run_id": 1,
+      "sample_number": 96,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:35"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 97,
+      "run_id": 1,
+      "sample_number": 97,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:36"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 98,
+      "run_id": 1,
+      "sample_number": 98,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:37"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 99,
+      "run_id": 1,
+      "sample_number": 99,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:38"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 100,
+      "run_id": 1,
+      "sample_number": 100,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:39"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 101,
+      "run_id": 2,
+      "sample_number": 1,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:40"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 102,
+      "run_id": 2,
+      "sample_number": 2,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:41"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 103,
+      "run_id": 2,
+      "sample_number": 3,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:42"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 104,
+      "run_id": 2,
+      "sample_number": 4,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:43"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 105,
+      "run_id": 2,
+      "sample_number": 5,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:44"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 106,
+      "run_id": 2,
+      "sample_number": 6,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:45"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 107,
+      "run_id": 2,
+      "sample_number": 7,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:46"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 108,
+      "run_id": 2,
+      "sample_number": 8,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:47"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 109,
+      "run_id": 2,
+      "sample_number": 9,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:48"
+    },
+    {
+      "accepted_value": null,
+      "record_id": 110,
+      "run_id": 2,
+      "sample_number": 10,
+      "status": "MISSING",
+      "timestamp": "2026-10-01T12:01:49"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 111,
+      "run_id": 2,
+      "sample_number": 11,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:50"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 112,
+      "run_id": 2,
+      "sample_number": 12,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:51"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 113,
+      "run_id": 2,
+      "sample_number": 13,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:52"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 114,
+      "run_id": 2,
+      "sample_number": 14,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:53"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 115,
+      "run_id": 2,
+      "sample_number": 15,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:54"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 116,
+      "run_id": 2,
+      "sample_number": 16,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:55"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 117,
+      "run_id": 2,
+      "sample_number": 17,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:56"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 118,
+      "run_id": 2,
+      "sample_number": 18,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:57"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 119,
+      "run_id": 2,
+      "sample_number": 19,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:58"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 120,
+      "run_id": 2,
+      "sample_number": 20,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:01:59"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 121,
+      "run_id": 2,
+      "sample_number": 21,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:02:00"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 122,
+      "run_id": 2,
+      "sample_number": 22,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:02:01"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 123,
+      "run_id": 2,
+      "sample_number": 23,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:02:02"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 124,
+      "run_id": 2,
+      "sample_number": 24,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:02:03"
+    },
+    {
+      "accepted_value": 27.0,
+      "record_id": 125,
+      "run_id": 2,
+      "sample_number": 25,
+      "status": "OK",
+      "timestamp": "2026-10-01T12:02:04"
+    }
+  ],
+  "current": 25.0,
+  "cursor": 4,
+  "data_status": "OK",
+  "events": [
+    {
+      "details": "{\"component\": \"health_monitor\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 4, \"source_record_id\": 4, \"source_timestamp\": \"2026-10-01T12:00:03\", \"previous\": \"FAILED\", \"current\": \"HEALTHY\"}",
+      "id": 13,
+      "kind": "HEALTH_CHANGED",
+      "timestamp": "2026-10-18T23:27:07.215+00:00"
+    },
+    {
+      "details": "{\"component\": \"ingestion\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 4, \"source_record_id\": 4, \"source_timestamp\": \"2026-10-01T12:00:03\", \"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}",
+      "id": 12,
+      "kind": "READING_PROCESSED",
+      "timestamp": "2026-10-18T23:27:07.215+00:00"
+    },
+    {
+      "details": "{\"component\": \"replay_source\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"reason\": \"local replay control file removed\", \"control_file\": \"replay.paused\", \"expected_interval_seconds\": 1.0}",
+      "id": 11,
+      "kind": "SOURCE_RESUMED",
+      "timestamp": "2026-10-18T23:27:06.390+00:00"
+    },
+    {
+      "details": "{\"component\": \"health_monitor\", \"severity\": \"ERROR\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"seconds_without_valid\": 8.02371597290039}",
+      "id": 10,
+      "kind": "DATA_FAILED",
+      "timestamp": "2026-10-18T23:27:06.183+00:00"
+    },
+    {
+      "details": "{\"component\": \"health_monitor\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"previous\": \"DEGRADED\", \"current\": \"FAILED\"}",
+      "id": 9,
+      "kind": "HEALTH_CHANGED",
+      "timestamp": "2026-10-18T23:27:06.183+00:00"
+    },
+    {
+      "details": "{\"component\": \"health_monitor\", \"severity\": \"WARNING\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"seconds_without_valid\": 3.087559938430786}",
+      "id": 8,
+      "kind": "STALE_DATA",
+      "timestamp": "2026-10-18T23:27:01.247+00:00"
+    },
+    {
+      "details": "{\"component\": \"health_monitor\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"previous\": \"HEALTHY\", \"current\": \"DEGRADED\"}",
+      "id": 7,
+      "kind": "HEALTH_CHANGED",
+      "timestamp": "2026-10-18T23:27:01.247+00:00"
+    },
+    {
+      "details": "{\"component\": \"replay_source\", \"severity\": \"WARNING\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"reason\": \"local replay control file present\", \"control_file\": \"replay.paused\", \"expected_interval_seconds\": 1.0}",
+      "id": 6,
+      "kind": "SOURCE_PAUSED",
+      "timestamp": "2026-10-18T23:26:58.366+00:00"
+    },
+    {
+      "details": "{\"component\": \"ingestion\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 2, \"last_valid_received_at\": \"2026-10-18T23:26:57.132+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}",
+      "id": 5,
+      "kind": "READING_PROCESSED",
+      "timestamp": "2026-10-18T23:26:58.159+00:00"
+    },
+    {
+      "details": "{\"component\": \"ingestion\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 1, \"last_valid_received_at\": \"2026-10-18T23:26:56.101+00:00\", \"latest_reading_id\": 2, \"source_record_id\": 2, \"source_timestamp\": \"2026-10-01T12:00:01\", \"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}",
+      "id": 4,
+      "kind": "READING_PROCESSED",
+      "timestamp": "2026-10-18T23:26:57.132+00:00"
+    },
+    {
+      "details": "{\"component\": \"health_monitor\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 0, \"last_valid_received_at\": null, \"latest_reading_id\": 1, \"source_record_id\": 1, \"source_timestamp\": \"2026-10-01T12:00:00\", \"previous\": \"RECOVERING\", \"current\": \"HEALTHY\"}",
+      "id": 3,
+      "kind": "HEALTH_CHANGED",
+      "timestamp": "2026-10-18T23:26:56.101+00:00"
+    },
+    {
+      "details": "{\"component\": \"ingestion\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 0, \"last_valid_received_at\": null, \"latest_reading_id\": 1, \"source_record_id\": 1, \"source_timestamp\": \"2026-10-01T12:00:00\", \"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}",
+      "id": 2,
+      "kind": "READING_PROCESSED",
+      "timestamp": "2026-10-18T23:26:56.101+00:00"
+    }
+  ],
+  "health": "HEALTHY",
+  "latest": {
+    "accepted_value": 25.0,
+    "cycle": 0,
+    "id": 4,
+    "provenance": "module6_classroom_replay",
+    "raw_value": "25.0",
+    "received_at": "2026-10-18T23:27:07.215+00:00",
+    "received_epoch": 1792366027.2154298,
+    "source_record_id": 4,
+    "source_timestamp": "2026-10-01T12:00:03",
+    "status": "OK"
+  },
+  "mode": "history",
+  "pid": 51972,
+  "restarts": 0,
+  "rows": [
+    {
+      "accepted_value": 25.0,
+      "cycle": 0,
+      "id": 1,
+      "provenance": "module6_classroom_replay",
+      "raw_value": "25.0",
+      "received_at": "2026-10-18T23:26:56.101+00:00",
+      "received_epoch": 1792366016.101352,
+      "source_record_id": 1,
+      "source_timestamp": "2026-10-01T12:00:00",
+      "status": "OK"
+    },
+    {
+      "accepted_value": 25.0,
+      "cycle": 0,
+      "id": 2,
+      "provenance": "module6_classroom_replay",
+      "raw_value": "25.0",
+      "received_at": "2026-10-18T23:26:57.132+00:00",
+      "received_epoch": 1792366017.13262,
+      "source_record_id": 2,
+      "source_timestamp": "2026-10-01T12:00:01",
+      "status": "OK"
+    },
+    {
+      "accepted_value": 25.0,
+      "cycle": 0,
+      "id": 3,
+      "provenance": "module6_classroom_replay",
+      "raw_value": "25.0",
+      "received_at": "2026-10-18T23:26:58.159+00:00",
+      "received_epoch": 1792366018.15902,
+      "source_record_id": 3,
+      "source_timestamp": "2026-10-01T12:00:02",
+      "status": "OK"
+    },
+    {
+      "accepted_value": 25.0,
+      "cycle": 0,
+      "id": 4,
+      "provenance": "module6_classroom_replay",
+      "raw_value": "25.0",
+      "received_at": "2026-10-18T23:27:07.215+00:00",
+      "received_epoch": 1792366027.2154298,
+      "source_record_id": 4,
+      "source_timestamp": "2026-10-01T12:00:03",
+      "status": "OK"
+    }
+  ],
+  "server_time": "2026-10-18T23:27:07.246+00:00"
+}

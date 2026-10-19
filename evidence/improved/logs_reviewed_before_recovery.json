@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-10-18T23:26:56.100+00:00",
+    "kind": "APPLICATION_START",
+    "details": "{\"component\": \"ingestion\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 0, \"last_valid_received_at\": null, \"latest_reading_id\": null, \"source_record_id\": null, \"source_timestamp\": null, \"cursor\": 0}"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-10-18T23:26:56.101+00:00",
+    "kind": "READING_PROCESSED",
+    "details": "{\"component\": \"ingestion\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 0, \"last_valid_received_at\": null, \"latest_reading_id\": 1, \"source_record_id\": 1, \"source_timestamp\": \"2026-10-01T12:00:00\", \"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-10-18T23:26:56.101+00:00",
+    "kind": "HEALTH_CHANGED",
+    "details": "{\"component\": \"health_monitor\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 0, \"last_valid_received_at\": null, \"latest_reading_id\": 1, \"source_record_id\": 1, \"source_timestamp\": \"2026-10-01T12:00:00\", \"previous\": \"RECOVERING\", \"current\": \"HEALTHY\"}"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-10-18T23:26:57.132+00:00",
+    "kind": "READING_PROCESSED",
+    "details": "{\"component\": \"ingestion\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 1, \"last_valid_received_at\": \"2026-10-18T23:26:56.101+00:00\", \"latest_reading_id\": 2, \"source_record_id\": 2, \"source_timestamp\": \"2026-10-01T12:00:01\", \"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-10-18T23:26:58.159+00:00",
+    "kind": "READING_PROCESSED",
+    "details": "{\"component\": \"ingestion\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 2, \"last_valid_received_at\": \"2026-10-18T23:26:57.132+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"status\": \"OK\", \"value\": 25.0, \"provenance\": \"module6_classroom_replay\"}"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-10-18T23:26:58.366+00:00",
+    "kind": "SOURCE_PAUSED",
+    "details": "{\"component\": \"replay_source\", \"severity\": \"WARNING\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"reason\": \"local replay control file present\", \"control_file\": \"replay.paused\", \"expected_interval_seconds\": 1.0}"
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-10-18T23:27:01.247+00:00",
+    "kind": "HEALTH_CHANGED",
+    "details": "{\"component\": \"health_monitor\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"previous\": \"HEALTHY\", \"current\": \"DEGRADED\"}"
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-10-18T23:27:01.247+00:00",
+    "kind": "STALE_DATA",
+    "details": "{\"component\": \"health_monitor\", \"severity\": \"WARNING\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"seconds_without_valid\": 3.087559938430786}"
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-10-18T23:27:06.183+00:00",
+    "kind": "HEALTH_CHANGED",
+    "details": "{\"component\": \"health_monitor\", \"severity\": \"INFO\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"previous\": \"DEGRADED\", \"current\": \"FAILED\"}"
+  },
+  {
+    "id": 10,
+    "timestamp": "2026-10-18T23:27:06.183+00:00",
+    "kind": "DATA_FAILED",
+    "details": "{\"component\": \"health_monitor\", \"severity\": \"ERROR\", \"pid\": 51972, \"database\": \"monitor.db\", \"cursor_before_tick\": 3, \"last_valid_received_at\": \"2026-10-18T23:26:58.159+00:00\", \"latest_reading_id\": 3, \"source_record_id\": 3, \"source_timestamp\": \"2026-10-01T12:00:02\", \"seconds_without_valid\": 8.02371597290039}"
+  }
+]
