@@ -96,4 +96,4 @@ These tests establish local replay-source pause/recovery, not physical sensor or
 - Instructor workflow: https://github.com/ivansuarez-AU/EGN321_Module7_Assignment7_2
 - AI contributions and actual verification are recorded in `AI_LOG.md`. Codex was used; Ollama was not run.
 
-GitHub publication is pending for this assignment.
+GitHub repository: https://github.com/juanosorio-alt/EGN321-Assignment7-2
